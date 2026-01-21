@@ -72,7 +72,7 @@ JavaScript (web tools, backend)
 float3 learning = float3(
     sdf_raymarching,
     compute_optimization,
-    unreal_engine_5.7
+    unreal_engine_5-7
 );
 ```
 
